@@ -12,6 +12,13 @@ const items = [
   },
   {
     id: 2,
+    title: "YouTube UI Clone",
+    img: "https://i.imgur.com/fNck22L.jpg",
+    desc: "Fully responsive app created using ReactJS, TypeScript and tailwind for css styling.",
+    url: "https://mytube-ui.vercel.app/"
+  },
+  {
+    id: 3,
     title: "React.js Blog",
     img: "https://i.imgur.com/OgI43r4.jpg",
     desc: "Fully fuctional blog created in React.js using HTML, CSS, Javascript, appwrite for backend authentication & managing posts",
